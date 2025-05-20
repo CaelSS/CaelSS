@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou Cael Santos Santana!
-## Programador java em evolução, mas suficiente pra ser contratado!!
+## Programador java em evolução!
 
 🌟 **Desenvolvedor em Aperfeiçoamento | Estudante de Programação**  
 📍 Vivo em **Maracás, BA**, apaixonado por tecnologia e aprendizado constante!
