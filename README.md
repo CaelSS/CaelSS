@@ -1,7 +1,4 @@
-# 👋 Olá, eu sou Cael Santos Santana!
-
-🌟 **Atualmente estagiado como QA | Estudante de Programação JAVA - Back-End**  
-
+# 👋 Olá!
 
 
 
